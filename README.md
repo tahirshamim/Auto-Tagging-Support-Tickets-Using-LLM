@@ -35,11 +35,4 @@ Automatically classify support tickets into multiple categories using **large la
 * Zero-shot and few-shot learning
 * Multi-class prediction and ranking
 
----
 
-If you want, I can also:
-
-* 🔹 Add **installation & usage steps**
-* 🔹 Make README more **academic**
-* 🔹 Add **screenshots / outputs**
-* 🔹 Customize for **internship or lab submission**
